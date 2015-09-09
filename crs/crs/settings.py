@@ -37,7 +37,6 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'roomsys',
-    'bootstrap3',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -87,3 +86,15 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.7/howto/static-files/
 
 STATIC_URL = '/static/'
+
+
+PROJECT_ROOT=os.path.join(os.path.abspath(os.path.dirname(__file__)),'..')
+ 
+
+STATIC_ROOT = os.path.join(PROJECT_ROOT,'static')
+
+STATICFILES_DIRS = (
+    ("css", os.path.join(STATIC_ROOT,'bootstrap/css')),
+    ("js", os.path.join(STATIC_ROOT,'bootstrap/js')),
+    ("images", os.path.join(STATIC_ROOT,'bootstrap/img')),
+)
