@@ -37,6 +37,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'roomsys',
+    'ansible',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -92,6 +93,10 @@ PROJECT_ROOT=os.path.join(os.path.abspath(os.path.dirname(__file__)),'..')
  
 
 STATIC_ROOT = os.path.join(PROJECT_ROOT,'static')
+
+TEMPLATE_DIRS = (
+    os.path.join(PROJECT_ROOT, 'templates'),
+)
 
 STATICFILES_DIRS = (
     ("css", os.path.join(STATIC_ROOT,'bootstrap/css')),

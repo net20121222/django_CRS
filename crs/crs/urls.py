@@ -8,4 +8,5 @@ urlpatterns = patterns('',
 
     url(r'^admin/', include(admin.site.urls)),
     url(r'^roomsys/', include('roomsys.urls')),
+    url(r'^ansible/',include('ansible.urls')),
 )

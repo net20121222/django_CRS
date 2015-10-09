@@ -3,5 +3,5 @@ from django.conf.urls import patterns, url
 from roomsys import views
 
 urlpatterns = patterns('',
-    url(r'^$', views.index, name='index'),
+    url(r'^$', "index", name='index'),
 )
