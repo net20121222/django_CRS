@@ -1,2 +1,2 @@
 # django_CRS
-django机房调度
+django ansible
