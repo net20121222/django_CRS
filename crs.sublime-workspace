@@ -1,0 +1,690 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"log",
+				"math.log(x)"
+			],
+			[
+				"set_uri",
+				"ngx.req.set_uri_args(args)"
+			],
+			[
+				"os",
+				"OSError	class"
+			],
+			[
+				"re",
+				"remove	function"
+			],
+			[
+				"ngx",
+				"ngx.decode_base64(str)"
+			],
+			[
+				"st",
+				"storbinary"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"ite",
+				"iteritems"
+			],
+			[
+				"wo",
+				"workid"
+			],
+			[
+				"dir",
+				"dir_tmp"
+			],
+			[
+				"ex",
+				"exists"
+			],
+			[
+				"loc",
+				"localtime"
+			],
+			[
+				"strtime",
+				"strftime"
+			],
+			[
+				"con",
+				"CONFIG_PATH"
+			],
+			[
+				"Cache",
+				"CacheTrafficRepWorker"
+			],
+			[
+				"de",
+				"debug"
+			],
+			[
+				"cac",
+				"cachetraffic_gl"
+			],
+			[
+				"get",
+				"get_weninfo"
+			],
+			[
+				"wr",
+				"write_historylog"
+			],
+			[
+				"sql",
+				"sqlconf_dict"
+			],
+			[
+				"li",
+				"list_lineinfo"
+			],
+			[
+				"it",
+				"items"
+			],
+			[
+				"Ca",
+				"CacheTrafficDayWorker"
+			],
+			[
+				"task",
+				"tasks_daydict"
+			],
+			[
+				"dir_va",
+				"dir_valuekey"
+			],
+			[
+				"tas",
+				"tasks_daydict"
+			],
+			[
+				"ca",
+				"cache_ip"
+			],
+			[
+				"domain",
+				"domaintype"
+			],
+			[
+				"ban",
+				"bandwidth_qita"
+			],
+			[
+				"do",
+				"domainname"
+			],
+			[
+				"strD",
+				"strDomainname"
+			],
+			[
+				"nu",
+				"THREAD_NUM"
+			],
+			[
+				"str",
+				"strDomainType"
+			],
+			[
+				"strDomain",
+				"strDomainID"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "crs/ansible/views.py",
+			"settings":
+			{
+				"buffer_size": 132,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "crs/crs/urls.py",
+			"settings":
+			{
+				"buffer_size": 367,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "crs/ansible/models.py",
+			"settings":
+			{
+				"buffer_size": 1930,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "crs/templates/ansible/index.html",
+			"settings":
+			{
+				"buffer_size": 1110,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 96.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo	",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 627.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/web_pro/django_CRS/crs.sublime-project",
+		"/home/web_pro/django_CRS/crs/roomsys/views.py",
+		"/home/web_pro/django_CRS/crs/ansible/urls.py",
+		"/home/web_pro/django_CRS/crs/roomsys/urls.py",
+		"/home/web_pro/django_CRS/crs/crs/settings.py",
+		"/home/web_pro/django_CRS/crs/templates/roomsys/index.html",
+		"/home/web_pro/django_CRS/crs/templates/ansible/index.html",
+		"/home/web_pro/django_CRS/crs/roomsys/templates/index.html",
+		"/home/web_pro/django_CRS/crs/crs/urls.py",
+		"/home/web_pro/django_CRS/crs/ansible/views.py",
+		"/home/web_pro/django_CRS/crs/templates",
+		"/home/web_pro/ansible_ui/desktop/apps/ansible/tasks.py",
+		"/home/web_pro/ansible_ui/desktop/core/templates/base.html",
+		"/home/rewrite_pptv_cache.lua",
+		"/home/test/aa.py",
+		"/home/test/a.lua",
+		"/root/.config/sublime-text-2/Packages/SublimeTmpl/Main.sublime-menu",
+		"/root/.config/sublime-text-2/Packages/User/SublimeTmpl.sublime-settings",
+		"/root/.config/sublime-text-2/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/root/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/root/.config/sublime-text-2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/test/test1.lua",
+		"/home/web_pro/ansible_ui/desktop/core/templates/ansible/explore.html",
+		"/home/web_pro/ansible_ui/desktop/core/lib/django_util.py",
+		"/home/web_pro/ansible_ui/desktop/apps/ansible/path_utils.py",
+		"/home/web_pro/ansible_ui/desktop/core/templates/ansible/view_project.html",
+		"/root/.config/sublime-text-2/Packages/User/lua.sublime-build",
+		"/home/test/untitled",
+		"/home/testftp/ftp_upcc2.py",
+		"/home/testftp/ftp_upcc.py",
+		"/home/ftp_upcc.py",
+		"/home/web_pro/mypro/myapp/templates/index.html",
+		"/home/web_pro/mypro/myapp/views.py",
+		"/home/web_pro/mypro/mypro/settings.py",
+		"/home/web_pro/ansible_ui/desktop/apps/ansible/elfinder/static/elfinder/js/i18n/elfinder.LANG.js",
+		"/home/web_pro/ansible_ui/desktop/apps/ansible/views.py",
+		"/home/web_pro/ansible_ui/desktop/core/templates/ansible/list_projects.html",
+		"/home/web_pro/ansible_ui/desktop/apps/ansible/urls.py",
+		"/home/web_pro/ansible_ui/desktop/core/templates/login.html",
+		"/home/web_pro/ansible_ui/desktop/core/auth/views.py",
+		"/usr/local/src/als_NoSmooth/als_server.ini",
+		"/usr/local/src/als_NoSmooth/etc/named.conf",
+		"/usr/local/src/als_NoSmooth/result/result.txt",
+		"/usr/local/src/als_NoSmooth/result/als_server.log",
+		"/usr/local/src/als_NoSmooth/result/als_server.log.1",
+		"/usr/local/src/als_NoSmooth/als_work.py",
+		"/usr/local/src/als_NoSmooth/cachetraffic_gl.py",
+		"/usr/local/src/als_NoSmooth/als_log.py",
+		"/usr/local/src/als_NoSmooth/cachetraffic_log.py",
+		"/usr/local/src/als_NoSmooth/configuration.py",
+		"/usr/local/src/als_NoSmooth/cachetraffic_serverconfig.py",
+		"/usr/local/src/als_NoSmooth/cachetraffic.py",
+		"/home/web_pro/ansible_ui/desktop/apps/ansible/models.py",
+		"/home/web_pro/django_blog-master/apps/blog/static/css/bootstrap.min.css",
+		"/home/web_pro/django_blog-master/django_blog/db.sqlite3",
+		"/home/web_pro/django-angularjs-blog-master/tests/test_utils.py",
+		"/home/web_pro/ansible_ui/desktop/core/internal/settings_local.py",
+		"/home/web_pro/ansible_ui/desktop/core/middleware.py",
+		"/home/web_pro/ansible_ui/desktop/apps/ansible/migrations/0002_initial.py",
+		"/home/web_pro/ansible_ui/desktop/apps/ansible/migrations/0003_initial.py",
+		"/usr/local/src/billing/cachetraffic_test/billing_daywork.py",
+		"/usr/local/src/billing/cachetraffic_test/billing.py",
+		"/usr/local/src/billing/cachetraffic_test/log.py",
+		"/usr/local/src/billing/billing-2.1.2/billing_reportwork.py",
+		"/usr/local/src/billing/billing-2.1.2/log.py",
+		"/usr/local/src/billing/billing-2.1.2/billing_daywork.py",
+		"/usr/local/src/billing/billing-2.1.2/billing_sql.py",
+		"/usr/local/src/billing/billing-2.1.2/billing.py",
+		"/usr/local/src/billing/billing-2.1.2/billing_historywork.py",
+		"/usr/local/src/billing/billing-2.1.2/.\\billing.py",
+		"/home/web_pro/ansible_ui/desktop/core/settings.py",
+		"/home/web_pro/mysite/mysite/settings.py",
+		"/usr/local/src/alerta/alerta/app/templates/index.html",
+		"/usr/local/src/alerta/alerta/app/auth.py",
+		"/usr/local/src/alerta/alerta/app/utils.py",
+		"/usr/local/src/alerta/alerta/app/database.py",
+		"/usr/local/src/alerta/alerta/app/views.py",
+		"/usr/local/src/alerta/alerta/app/__init__.py",
+		"/usr/local/src/alerta/alerta/.tags",
+		"/usr/local/src/alerta/alerta/version.py",
+		"/usr/local/src/alerta/alerta/app/severity_code.py",
+		"/usr/local/src/alerta/alerta/app/metrics.py",
+		"/usr/local/src/alerta/alerta/settings.py",
+		"/usr/local/src/cachetraffic/configuration.py",
+		"/usr/local/src/cachetraffic/cachetraffic_server.log",
+		"/usr/local/src/cachetraffic/cachetraffic_reportwork.py",
+		"/usr/local/src/cachetraffic/cachetraffic_log.py",
+		"/usr/local/src/cachetraffic/cachetraffic_historywork.py",
+		"/usr/local/src/cachetraffic/cachetraffic_daywork.py",
+		"/usr/local/src/cachetraffic/observable.py",
+		"/usr/local/src/cachetraffic/cachetraffic_gl.py",
+		"/usr/local/src/cachetraffic/cachetraffic.py",
+		"/usr/local/src/cachetraffic/supervisord.conf",
+		"/usr/local/src/cachetraffic/cachetraffic_server.ini",
+		"/usr/local/src/cachetraffic/cachetraffic_sql.py",
+		"/usr/local/src/cachetraffic/cachetraffic_serverconfig.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"login",
+			"get_fid",
+			"	\n",
+			"get_allusers",
+			"get_users_with_perms",
+			"list_projects",
+			"ignored_packages",
+			"pythonExtraPaths",
+			"pagination_tags",
+			"explore",
+			"savefilecontent",
+			"view_project",
+			"render_json",
+			"delete_project",
+			"project",
+			"add_project",
+			"save_template",
+			"list_projects",
+			"__",
+			"Project",
+			"mysql",
+			"index.html",
+			"home",
+			"svn",
+			"bootstrap-responsive.css",
+			"localhour",
+			"print",
+			"save_failedempty",
+			"upload_emptylog",
+			"get_failedempty",
+			"upload_handle",
+			"get_remotetime",
+			"upload_file",
+			"save_failedempty",
+			"get_failedempty",
+			"upload_handle",
+			"get_remotetime",
+			"get_failedempty",
+			"upload_handle",
+			"upload_file",
+			"get_failedempty",
+			"upload_emptylog",
+			"emptyfile",
+			"FtpClient",
+			"print",
+			"static",
+			"LOGIN_URL",
+			"PrimordialModel",
+			"CommonModel",
+			"Project",
+			"list_projects",
+			"view_project",
+			"list_projects",
+			"login.html",
+			"index",
+			"blog_home",
+			"17",
+			"None",
+			")\n",
+			"dir_valuekey",
+			"view_name_list",
+			"param_check",
+			"filename",
+			"listdir",
+			"print",
+			"ip_into_int",
+			"name.conf is not exist",
+			"co_routines_status",
+			"checkip",
+			"view_name_list",
+			"date",
+			"timedelta",
+			"param_check",
+			"loginit",
+			"loadconfig",
+			"view_project",
+			"list_projects",
+			"_removed",
+			"remove",
+			"list_projects",
+			"well",
+			"_query_blogs",
+			"home",
+			"post",
+			"site-heading",
+			"_query_blogs",
+			"url",
+			"users",
+			"list_projects",
+			"view_project",
+			"execute_script",
+			"ansible",
+			"settings_local",
+			"DATABASES",
+			"times",
+			"update_wsdlconfiginfo",
+			"sqlconpool_sem",
+			"sqlconf_sem",
+			"sqlextensive_dict",
+			"mysql",
+			"ENGIN",
+			"Engin",
+			"googl",
+			"google",
+			"render_template",
+			"print",
+			"priny",
+			"tasks_repsem",
+			"tasks_repdict",
+			"tasks_repqueue",
+			"updatetask",
+			"value",
+			"domainid",
+			"id",
+			"gl",
+			"data",
+			"gl",
+			"logger",
+			"CacheTrafficServerConfig",
+			"BillingServerConfig"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"cachetraffic_gl",
+			"CacheTRafficServerConfig"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "crs/ansible/views.py",
+					"settings":
+					{
+						"buffer_size": 132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "crs/crs/urls.py",
+					"settings":
+					{
+						"buffer_size": 367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								364,
+								364
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "crs/ansible/models.py",
+					"settings":
+					{
+						"buffer_size": 1930,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "crs/templates/ansible/index.html",
+					"settings":
+					{
+						"buffer_size": 1110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								398,
+								398
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"desktop/apps/ansible/elfinder/static/elfinder/js/i18n/elfinder.LANG.js"
+			],
+			[
+				"cachetraffic_daywork",
+				"cachetraffic_daywork.py"
+			],
+			[
+				"cachetraffic_ser",
+				"cachetraffic_serverconfig.py"
+			],
+			[
+				"cache",
+				"cachetraffic.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/web_pro/django_CRS/crs.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true
+}

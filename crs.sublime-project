@@ -1,0 +1,12 @@
+{
+	"folders":
+	[
+		{
+			"path": "/home/web_pro/django_CRS"
+		}
+	],
+	"settings":{
+        "python_interpreter_path": "/root/.pyenv/versions/env_CRS/bin/python",
+        "python_package_paths": "/root/.pyenv/versions/env_CRS/bin/python"
+    }
+}
