@@ -15,12 +15,12 @@ class BasicInfo(models.Model):
 
 class CommonInfoUniName(BasicInfo):
 	class Meta:
-        abstract = True
+		abstract = True
 	name = models.CharField(max_length = 128,unique = True)
 
 class CommonInfoUnuniName(BasicInfo):
 	class Meta:
-        abstract = True
+		abstract = True
 	name = models.CharField(max_length = 128,unique = False)
 
 class Credential(CommonInfoUnuniName):
@@ -34,7 +34,7 @@ class Credential(CommonInfoUnuniName):
 
 class Project(CommonInfoUniName):
 	scmtype = models.CharField(max_length = 1024)
-	scmurl = models.CharField(blank = True,null = True)
+	scmurl = models.CharField(blank = True,null = True,max_length = 1024)
 	group = models.CharField(max_length = 128,null = True,blank = True)
 	class Meta:
 		permissions = (
@@ -43,3 +43,5 @@ class Project(CommonInfoUniName):
 			('execute_pro','Execute Project'),
 			('manager_pro','Manager Project'),
 			)
+
+		

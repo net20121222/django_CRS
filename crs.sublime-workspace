@@ -144,18 +144,18 @@
 	"buffers":
 	[
 		{
-			"file": "crs/ansible/views.py",
+			"file": "crs/ansible/urls.py",
 			"settings":
 			{
-				"buffer_size": 132,
+				"buffer_size": 305,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "crs/crs/urls.py",
+			"file": "crs/ansible/views.py",
 			"settings":
 			{
-				"buffer_size": 367,
+				"buffer_size": 553,
 				"line_ending": "Unix"
 			}
 		},
@@ -163,7 +163,7 @@
 			"file": "crs/ansible/models.py",
 			"settings":
 			{
-				"buffer_size": 1930,
+				"buffer_size": 1940,
 				"line_ending": "Unix"
 			}
 		},
@@ -172,6 +172,14 @@
 			"settings":
 			{
 				"buffer_size": 1110,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "crs/templates/ansible/list_projects.html",
+			"settings":
+			{
+				"buffer_size": 144,
 				"line_ending": "Unix"
 			}
 		}
@@ -236,6 +244,8 @@
 	},
 	"file_history":
 	[
+		"/home/web_pro/django_CRS/crs/templates/ansible/list_projects.html",
+		"/home/web_pro/django_CRS/crs/crs/urls.py",
 		"/home/web_pro/django_CRS/crs.sublime-project",
 		"/home/web_pro/django_CRS/crs/roomsys/views.py",
 		"/home/web_pro/django_CRS/crs/ansible/urls.py",
@@ -244,7 +254,6 @@
 		"/home/web_pro/django_CRS/crs/templates/roomsys/index.html",
 		"/home/web_pro/django_CRS/crs/templates/ansible/index.html",
 		"/home/web_pro/django_CRS/crs/roomsys/templates/index.html",
-		"/home/web_pro/django_CRS/crs/crs/urls.py",
 		"/home/web_pro/django_CRS/crs/ansible/views.py",
 		"/home/web_pro/django_CRS/crs/templates",
 		"/home/web_pro/ansible_ui/desktop/apps/ansible/tasks.py",
@@ -489,23 +498,23 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "crs/ansible/views.py",
+					"file": "crs/ansible/urls.py",
 					"settings":
 					{
-						"buffer_size": 132,
+						"buffer_size": 305,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								132,
-								132
+								298,
+								298
 							]
 						],
 						"settings":
@@ -521,18 +530,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "crs/crs/urls.py",
+					"file": "crs/ansible/views.py",
 					"settings":
 					{
-						"buffer_size": 367,
+						"buffer_size": 553,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								364,
-								364
+								553,
+								553
 							]
 						],
 						"settings":
@@ -551,15 +560,15 @@
 					"file": "crs/ansible/models.py",
 					"settings":
 					{
-						"buffer_size": 1930,
+						"buffer_size": 1940,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1778,
+								1778
 							]
 						],
 						"settings":
@@ -568,7 +577,7 @@
 							"syntax": "Packages/Python/Python.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 270.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -585,8 +594,8 @@
 						"selection":
 						[
 							[
-								398,
-								398
+								696,
+								696
 							]
 						],
 						"settings":
@@ -595,6 +604,32 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 3,
 							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "crs/templates/ansible/list_projects.html",
+					"settings":
+					{
+						"buffer_size": 144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

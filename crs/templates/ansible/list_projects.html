@@ -1,0 +1,8 @@
+<ul>
+	<li>group</li>
+	{% for item in groups %}
+	<li>
+		<a href="{% url 'list_projects_group' item %}"> {{ item }}</a>
+	</li>
+	{% endfor %}
+</ul>

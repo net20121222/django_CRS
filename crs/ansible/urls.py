@@ -6,7 +6,8 @@
 from django.conf.urls import patterns, url
 from ansible import views
 
-urlpatterns = patterns('',
-    url(r'^$', views.index, name='index'),
+urlpatterns = patterns('ansible.views',
+    #url(r'^$', 'index', name='index'),
+    url(r'^$', 'list_projects', name='list_projects'),
 )
 
