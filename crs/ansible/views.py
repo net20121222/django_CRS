@@ -38,7 +38,7 @@ def add_project(request):
         name_re = re.match("\w+",name)
         proj = Project.objects.filter(name = name)
         # need a message
-        if proj or not name:
+        if proj or not name_re:
             raise Exception("project name required!")
 
         try:
