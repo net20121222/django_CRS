@@ -42,6 +42,8 @@ class Project(CommonInfoUniName):
 			('config_pro','Config Project'),
 			('execute_pro','Execute Project'),
 			('manager_pro','Manager Project'),
-			)
+		)
+
+		
 
 		
